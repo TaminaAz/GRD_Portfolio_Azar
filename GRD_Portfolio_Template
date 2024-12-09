@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="./css/main.css">
+    <title>grad-portfolio-template</title>
+</head>
+<body>
+    <main>
+		
+		
+		
+        <div id="hero" class="full-page-section">
+			<div class="video-background">
+    <!-- YouTube Video Embedded as Fullscreen Background -->
+    <a href="img/bgvideo.mp4">
+    <iframe src="img/bgvideo.mp4" 
+            frameborder="0" 
+            allow="autoplay; loop; encrypted-media" 
+            allowfullscreen>
+    </iframe>
+    </a>
+    <!-- Optional Overlay Content -->
+
+  </div>
+            <ul id="hero-social-list">
+                <li class="be">
+                  <a href="#" rel="external nofollow">
+                    Tamina Azar&nbsp; </a>
+            </li>
+                <li class="em">
+                    <a href="#" rel="external nofollow">
+                    taziidesign@gmail.com&nbsp; </a>
+                </li>
+                <li class="insta">
+                    <a href="#" rel="external nofollow">
+                    @tazidesign_
+                </a>
+                </li>
+            </ul>
+        </div>
+<section id="about-detail">
+      <div class="row">
+                <div class="column">
+                    <img src="img/headshot_1.png" alt="my head shot" width="500" height="685">
+                </div>
+                <div class="column">
+                    <div class="row">
+                        <div class="column">
+                            <img src="img/logo.png" alt="logo" width="500" height="204">
+                            <div class="row">
+                                <div class="column">
+                                    <h2>ABOUT ME</h2>
+                                </div>
+                                <div class="column">
+                                    <p>Tamina Azar is a young graphic designer from Lasalle, Ontario, Canada. She grew up with a very artistic family and always wanted to create. Tamina loves making graphics for entertainment media such as movie posters, book covers, and magazine layouts. Tamina took classes in graphic design in high school and furthered her education in graphic design at St. Clair College. In her free time, Tamina spends her time watching movies and reading books. As well as always thinking of ideas for her next design.&nbsp; </p>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row">
+                                <div class="column">
+                                <h2>Skills</h2>
+                                <ul>
+                                    <li>Layout Design&nbsp;</li>
+                                    <li>Well Organized&nbsp;</li>
+                                </ul>
+                                <h2>Education</h2>
+                                <ul>
+                                  <li> 2019-2022 St. Thomas of Villanova High School</li>
+                                  <li>&nbsp;2022-Present St. Clair College for Graphic Desgin</li>
+                                </ul>
+                                </div>
+                                <div class="column">
+                                    <h2>Software</h2>
+                                    <ul>
+                                        <li>Photoshop</li>
+                                      <li>Illustrator</li>
+                                        <li>InDesign&nbsp;</li>
+                                    </ul>
+                                    <h2>Contact</h2>
+                                    <ul>
+                                        <li><a href="mailto:email@email.com">taziidesign@gmail.com</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <h1>Projects</h1>
+            <div id="category-selection">
+            <div class="category-card">
+                <h2><a href="img/project1.png">Project-1</a></h2>
+            </div>
+            <div class="category-card">
+                <h2><a href="img/project2.png">Project-2</a></h2>
+            </div>
+            <div class="category-card">
+                <h2><a href="img/project3.png">Project-3</a></h2>
+            </div>
+            <div class="category-card">
+                <h2><a href="img/project4.png">Projec-4</a></h2>
+            </div>
+        </div>
+        </section>
+        <section class="full-page-section" id="project-1">
+            <div class="row">
+                <div class="column">
+                    <div class="project-info">
+                    <h2 class="projecttitle">&nbsp;Roe v. Wade Poster</h2>
+                    <ul class="project-tags">
+                      <li class="tag green">Social Media</li>
+                        <li class="tag green">Design &amp; Layout</li>
+                        <li class="tag green">Illustration</li>
+                    </ul>
+                    <p>For this Type Poster, I did the topic of Roe v. Wade. I chose to make the poster simple but impactful. I wanted to make people squirm and uncomfortable while looking at my poster. For the type design, I used a thick font to make the words “Never Again” more readable against the curves and I made it into a coat hanger because of how women used to do self-abortions and how it will be happening again since Roe was overturned. The coat hanger is red to symbolize blood and to symbolize what women are forced to do to themselves. I kept the body copy and history logo on the bottom so the hanger could be the main focus and be front and center. In the end, I added noise to help with the amount of white space. I also added the noise to make it look older since the last time abortion was illegal was in 1972.&nbsp;</p>
+                </div>
+            </div>
+                <div class="column">
+                    <img src="img/project1.png" alt="Project Hero" width="500" height="765">
+                </div>
+            </div>
+        </section>
+      <section class="full-page-section" id="project-2">
+          <div class="row">
+            <div class="column">
+              <div class="project-info">
+                <h2 class="projecttitle">&nbsp;Cosmica Video Game</h2>
+                <ul class="project-tags">
+                  <li class="tag green">Video Game</li>
+                  <li class="tag green">Logo</li>
+                  <li class="tag green">Illustration</li>
+                </ul>
+                <p>For this project I created a video game that was based off of an 80s video game aesthetic. I named the game Cosmica and made it a space game. I cut the spaceship logo in half to follow the gradient line in the font. The colour I chose were popular colours in the 80s for video games.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+              </div>
+            </div>
+            <div class="column"> <img src="img/project2.png" alt="Project Hero" width="700" height="523" class="projects"> </div>
+          </div>
+        </section>
+      <section class="full-page-section" id="project-3">
+          <div class="row">
+            <div class="column">
+              <div class="project-info">
+                <h2 class="projecttitle">&nbsp;In Transit Magazine</h2>
+                <ul class="project-tags">
+                  <li class="tag green">Design &amp; Layout</li>
+                  <li class="tag green">Photography</li>
+                  <li class="tag green">Magazine</li>
+                </ul>
+                <p>For this magazine layout, I chose to use an arctic theme for the cover. I selected a color from the cover image to use for the shapes in the design. I chose Times for the main title font and Helvetica Light for the tagline. I continued to use Helvetica for the rest of the bodycopy throughout the layout.  I kept the shapes and colors consistent throughout the layout to create a theme for the magazine as well as make the articles the main focus. I added a few images around each article layout to tie everything together and help convey the contents of each article.</p>
+              </div>
+            </div>
+            <div class="column"> <img src="img/project3.png" alt="Project Hero" width="700" height="896"></div>
+          </div>
+        </section>
+        <section class="full-page-section" id="project-4">
+          <div class="row">
+            <div class="column">
+              <div class="project-info">
+                <h2 class="projecttitle">&nbsp;E-Sports Logo</h2>
+                <ul class="project-tags">
+                  <li class="tag green">Video Game</li>
+                  <li class="tag green">Logo</li>
+                  <li class="tag green">Illustration</li>
+                </ul>
+                <p>The E-Sports logo I created is of a Raccoon. I thought the crazy hair raccoons usally have would look cool in a spike E-Sports logo. I kept the colous dark and similar to the colours of a real raccoon and exaggerated some of the features of a raccoons face.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+              </div>
+            </div>
+            <div class="column"> <img src="img/project4.png" alt="Project Hero" width="700" height="684" class="projects"></div>
+          </div>
+        </section>
+
+    </main>
+</body>
+</html>
